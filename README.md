@@ -1,6 +1,7 @@
-## Operating System
+## $${\color {red} \tetbf {Operating System}}$$
 - operating system is a system software which manages computer resources and acts as an intermediary between a user and the hardware
-## Linux vs Windows
+
+## $${\color {red} \tetbf {Linux vs Windows}}$$
 ![image](https://github.com/user-attachments/assets/95f501d7-a477-4a71-bc14-90294f6184a7)
 
 
@@ -20,7 +21,7 @@
 **Application/user:** Users interact with the system through varies applications such as office, games, etc. 
 
 
-## Directory  Structure in  Linux
+## $${\color {red} \tetbf {Directory  Structure in  Linux}}$$
 
 -In Linux directory structure   “/”  (slash) is main directory
 - All other directories comes under “/” directory.
@@ -82,7 +83,9 @@
 
 
 19. /run - Temporary system files from this boot.
-## Basic Linux Commands
+    
+## $${\color {red} \tetbf {Basic Linux Commands}}$$
+
 - check current shell
 ````
 echo $SHELL
