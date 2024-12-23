@@ -1,5 +1,7 @@
 ## $${\color{red} \textbf {Create Files and Directories in Linux}}$$
 
+![image](https://github.com/user-attachments/assets/a91350fa-f0e8-4853-8451-94913d0b1655)
+
 ### $${\color{orange} \textbf {Directories}}$$
 **Question: How to create a directory?**
 ```bash
