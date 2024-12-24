@@ -65,7 +65,7 @@ In **Execution Mode**, you can issue commands to save, quit, and modify settings
 - :set nonu  Disable line numbers
 - :/<word>  Highlight a specific word
 - :nohl  Remove highlight
-- :%s/<old word>/<new word>: Find and replace `old word` with `new word`
+- :%s/<old word>/<new word>: Find and replace old word with new word
 - :!<command>  Execute a terminal command without leaving the editor
 
 ---
