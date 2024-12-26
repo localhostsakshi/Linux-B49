@@ -25,7 +25,7 @@ In **Command Mode**, you can perform operations like deleting, copying, and past
 - cw  Cut current word and enter insert mode
 - <n>cc  Cut `n` number of lines and enter insert mode
 - P  Paste copied or cut content
-- u  Undo last action
+- Ctrl+u  Undo last action
 - Ctrl+r  Redo last undone action
 
 ### Navigation:
